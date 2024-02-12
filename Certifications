@@ -1,6 +1,6 @@
 <h1>Certifications</h1>
 <head>
-<link rel="stylesheet" href="syles.css">
+<link rel="stylesheet" href="styles.css">
 I got maaads experience in dis gangster
 <p>
     <h3>Experience</h3>
@@ -10,5 +10,14 @@ I got maaads experience in dis gangster
         <li>Network types</li>
     </ul>
 </p>
-<a href="index.html"</a>Home Page</a>
 </head>
+<body>
+    <nav class="navbar">
+        <ul>
+            <li><a href="index.html"</a>About Me</a></li>
+            <li><a href="Certifications"</a>Certifications</a></li>
+            <li><a href="Contact_Me"</a>Contact Me</a></li>
+            <li><a href="Resume"</a>Resume</a></li>
+        </ul>
+    </nav>
+</body>

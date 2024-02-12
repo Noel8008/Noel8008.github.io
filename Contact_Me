@@ -1,7 +1,7 @@
 <h1>Contact Me</h1>
 <head>
 
-<link rel="stylesheet" href="syles.css">
+<link rel="stylesheet" href="styles.css">
 drop yo momma socials. going soul partner hunting
 <p>
 <h3>Fill Out Below to be Contacted</h3>
@@ -9,5 +9,12 @@ drop yo momma socials. going soul partner hunting
     Email_______________<br>
     Phone #_____________ (optional)
 </p>
-<a href="index.html"</a>Home Page</a>
 </head>
+<nav class="navbar">
+    <ul>
+        <li><a href="index.html"</a>About Me</a></li>
+        <li><a href="Certifications"</a>Certifications</a></li>
+        <li><a href="Contact_Me"</a>Contact Me</a></li>
+        <li><a href="Resume"</a>Resume</a></li>
+    </ul>
+</nav>

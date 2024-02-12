@@ -3,5 +3,21 @@
 
 body{
     background-color: #16161a;
-    color: #7f5af0;
+    color: white;
+}
+.navbar ul{
+    list-style-type: none;
+    overflow: hidden;
+}
+.navbar a{
+    display: block;
+    text-align: center;
+    color: white;
+    padding: 15px;
+}
+.navbar a:hover{
+    background-color: #7f5af0;
+}
+.navbar li{
+    float: center;
 }
