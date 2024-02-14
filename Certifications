@@ -1,4 +1,4 @@
-<h1>Certifications</h1>
+<h1>Projects</h1>
 <head>
 <link rel="stylesheet" href="styles.css">
 I got maaads experience in dis gangster
@@ -10,12 +10,24 @@ I got maaads experience in dis gangster
         <li>Network types</li>
     </ul>
 </p>
+<li>Security Floorplan for a University Campus</li>
+<img src="Copy of University Campus Floor Plan Noel RAAHHHHH.png">
+<p>
+
+</p>
+<li>Diagram of Wifi Enters a Household</li>
+<img src="HowWifiGetsToYourHouse.jpg">
+<p>
+
+</p>
+<li>Starter Website of A Big Interest</li>
+<img src="Screen Shot 2024-02-14 at 2.07.21 PM.png" 
 </head>
 <body>
     <nav class="navbar">
         <ul>
             <li><a href="index.html"</a>About Me</a></li>
-            <li><a href="Certifications"</a>Certifications</a></li>
+            <li><a href="Certifications"</a>Projects</a></li>
             <li><a href="Contact_Me"</a>Contact Me</a></li>
             <li><a href="Resume"</a>Resume</a></li>
         </ul>
