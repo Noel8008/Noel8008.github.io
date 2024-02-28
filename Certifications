@@ -1,35 +1,44 @@
-<h1 class="text-center">Projects</h1>
+<!DOCTYPE html>
+<html>
+
 <head>
-<link rel="stylesheet" href="styles.css">
-I got maaads experience in dis gangster
-<p>
-    <h3>Experience</h3>
+    <link rel="stylesheet" href="styles.css">
+    <title>Projects</title>
+</head>
+
+<body>
+    
+    <h1 class="text-center">Projects</h1>
+    <p class="text-center">
+        The work I've completed to strengthen my experince/knowlege on FSD
+    </p>
+    <p>
+    <h3 class="text center"> Experience</h3>
     <ul>
-        <li>Understanding of Python & HTML</li>
+        <li>Understanding of Python [&] HTML</li>
         <li>Hardware understanding</li>
         <li>Network types</li>
     </ul>
-</p>
-<li>Security Floorplan for a University Campus</li>
-<img src="images/floorplan.png" width="300" height="150">
-<p>
+    </p>
+    <li>Security Floorplan for a University Campus</li>
+    <img src="images/floorplan.png" width="300" height="150">
+    <p>
 
-</p>
-<li>Diagram of How Wifi Enters a Household</li>
-<img src="images/wifidiagram.jpg" width="200" height="300">
-<p>
+    </p>
+    <li>Diagram of How Wifi Enters a Household</li>
+    <img src="images/wifidiagram.jpg" width="200" height="300">
+    <br>
+    <li>Starter Website of A Big Interest</li>
+    <img src="images/website.png" width="400" height="200">
 
-</p>
-<li>Starter Website of A Big Interest</li>
-<img src="images/website.png" width="400" height="200"> 
-</head>
-<body>
     <nav class="navbar">
         <ul>
-            <li><a href="index.html"</a>About Me</a></li>
-            <li><a href="Certifications"</a>Projects</a></li>
-            <li><a href="Contact_Me"</a>Contact Me</a></li>
-            <li><a href="Resume"</a>Resume</a></li>
+            <li><a href="index.html">About Me</a></li>
+            <li><a href="Certifications">Projects</a></li>
+            <li><a href="Contact_Me">Contact Me</a></li>
+            <li><a href="Resume">Resume</a></li>
         </ul>
     </nav>
 </body>
+
+</html>
