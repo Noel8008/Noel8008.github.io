@@ -1,20 +1,32 @@
-<h1 class="text-center">Contact Me</h1>
-<head>
+<!DOCTYPE html>
+<html>
 
-<link rel="stylesheet" href="styles.css">
-drop yo momma socials. going soul partner hunting
-<p>
-<h3>Fill Out Below to be Contacted</h3>
-    Name________________<br>
-    Email________________<br>
-    Phone #______________ (optional)
-</p>
+<head>
+<h1 class="text-center">Contact Me</h1>
+<title>Contact Me</title>
 </head>
+
+<body>
+<link rel="stylesheet" href="styles.css">
+Get in hold of me for further details.
+<h3>Fill Out Below to be Contacted</h3>
+
+<nav class="navbar">
+  <a href="https://forms.gle/nwbTrzo5H4a87jLX7">Google Form</a>     <br>
+</nav>
+
+<p>
+    Or Simply Email Me :3<br>
+--NSingh@BrooklySteamCenter.Org--
+</p>
+
 <nav class="navbar">
     <ul>
-        <li><a href="index.html"</a>About Me</a></li>
-        <li><a href="Certifications"</a>Projects</a></li>
-        <li><a href="Contact_Me"</a>Contact Me</a></li>
-        <li><a href="Resume"</a>Resume</a></li>
+        <li><a href="index.html">About Me</a></li>
+        <li><a href="Certifications">Projects</a></li>
+        <li><a href="Contact_Me">Contact Me</a></li>
+        <li><a href="Resume">Resume</a></li>
     </ul>
 </nav>
+</body>
+</html>

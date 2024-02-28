@@ -24,3 +24,8 @@ body{
 .text-center {
     text-align: center;
   }
+/* mouse over link */
+a:hover {
+    color: #16161a;
+}
+
