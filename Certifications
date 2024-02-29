@@ -27,7 +27,9 @@
     </p>
     <li>Diagram of How Wifi Enters a Household</li>
     <img src="images/wifidiagram.jpg" width="200" height="300">
-    <br>
+    <p>
+    
+    </p>
     <li>Starter Website of A Big Interest</li>
     <img src="images/website.png" width="400" height="200">
 
@@ -36,7 +38,7 @@
             <li><a href="index.html">About Me</a></li>
             <li><a href="Certifications">Projects</a></li>
             <li><a href="Contact_Me">Contact Me</a></li>
-            <li><a href="Resume">Resume</a></li>
+            <li><a href="https://docs.google.com/document/d/1Sk5W_H2XeLq5yQg1XQkhhmPfuWMPASZl4wUaMgIFG0s/edit?usp=sharing">Resume</a></li>
         </ul>
     </nav>
 </body>
