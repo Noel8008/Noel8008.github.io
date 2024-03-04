@@ -12,6 +12,12 @@
             font-size: 70px;
             color: cornflowerblue;
         }
+
+        .fa-github
+        {
+            font-size: 70px;
+            color: black;
+        }
     </style>
 </head>
 
@@ -26,7 +32,7 @@ Get in hold of me for further details.
             <label for="fname">Full Name</label>
             <input type="text" id="fname" placeholder="John Doe" required> 
         </div>
-        
+
         <br>
 
         <div>
@@ -62,6 +68,7 @@ Get in hold of me for further details.
 </p>
 <br>
 <i class="fa-brands fa-linkedin"></i>
+<i class="fa-brands fa-github"></i>
 
 <nav class="navbar">
     <ul>
