@@ -28,4 +28,7 @@ body{
 a:hover {
     color: #16161a;
 }
-
+@media screen and (max-width: 600px) {
+    
+  }
+  
